@@ -85,27 +85,47 @@ Contact-Manager-Mern/
 └── README.md
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the repository
-git clone https://github.com/Sagargupta16/Contact-Manager-Mern.git
+
+git clone github link
+
 cd Contact-Manager-Mern
+
 2️⃣ Install dependencies
+
 Backend:
+
 cd backend
+
 npm install
+
 Frontend:
+
 cd frontend
+
 npm install
+
 3️⃣ Configure Environment Variables
 
 Create a .env file inside the backend folder:
 
 PORT=5000
+
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_secret_key
+
 4️⃣ Run the application
+
 Start Backend:
+
 cd backend
+
 npm start
+
 Start Frontend (new terminal):
+
 cd frontend
+
 npm start
