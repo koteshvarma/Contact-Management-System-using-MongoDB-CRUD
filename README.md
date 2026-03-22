@@ -11,13 +11,21 @@ The backend is developed using Node.js and Express.js, exposing RESTful APIs, wh
 This project follows a modular and scalable architecture, making it easy to extend and maintain.
 
 ✨ Features
+
 ➕ Add new contacts
+
 📋 View all contacts
+
 ✏️ Update existing contacts
+
 ❌ Delete contacts
+
 🔄 RESTful API integration
+
 📱 Responsive UI
+
 🛠️ Tech Stack
+
 Frontend:
 React.js
 HTML5, CSS3
