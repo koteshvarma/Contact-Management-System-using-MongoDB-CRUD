@@ -27,34 +27,61 @@ This project follows a modular and scalable architecture, making it easy to exte
 🛠️ Tech Stack
 
 Frontend:
+
 React.js
+
 HTML5, CSS3
+
 Bootstrap (if used)
+
 Backend:
+
 Node.js
+
 Express.js
+
 Database:
+
 MongoDB
+
 Tools:
+
 Git & GitHub
+
 VS Code
+
 Postman
+
 📂 Project Structure
+
 Contact-Manager-Mern/
 │
 ├── backend/
+
 │   ├── controllers/
+
 │   ├── models/
+
 │   ├── routes/
+
 │   ├── config/
+
 │   └── server.js
+
 │
+
 ├── frontend/
+
 │   ├── src/
+
 │   ├── public/
+
 │   └── package.json
+
 │
+
 └── README.md
+
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/Sagargupta16/Contact-Manager-Mern.git
